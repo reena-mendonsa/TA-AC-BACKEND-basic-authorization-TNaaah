@@ -1,0 +1,21 @@
+{
+  "name": "altcampus-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "AltCampus",
+  "license": "GNU GPL V3",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^16.0.0",
+    "express-session": "^1.17.2",
+    "flash": "^1.1.0",
+    "jest": "^26.0.1",
+    "mongoose": "^6.2.1",
+    "slugger": "^1.0.1"
+  }
+}
